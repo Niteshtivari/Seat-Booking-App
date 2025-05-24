@@ -1,8 +1,10 @@
 # Seat Booking App
 
-This is a fully interactive Seat Booking Web App built with HTML, CSS, and JavaScript. It allows users to select a movie, choose seats, and book or cancel them dynamically.
+**This is a fully interactive Seat Booking Web App built with HTML, CSS, and JavaScript. It allows users to select a movie, choose seats, and book or cancel them dynamically.**
 
-# 🚀 Features
+**A demo of the project-** https://files.codingninjas.in/movie-31322.gif
+
+## 🚀 Features
 Dropdown list dynamically populated using a predefined MovieList array.
 
 Real-time price updates based on the selected movie and number of seats chosen.
@@ -20,7 +22,7 @@ Responsive and intuitive UI for smooth user experience.
 
 
 
-# 📚 Key Concepts.
+## 📚 Key Concepts.
 
 DOM manipulation using querySelector, appendChild, addEventListener.
 
